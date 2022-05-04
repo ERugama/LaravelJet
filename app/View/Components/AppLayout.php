@@ -12,7 +12,7 @@ class AppLayout extends Component
      * @return \Illuminate\View\View
      */
     public function render()
-    {
+    {   //layout
         return view('layouts.app');
     }
 }
